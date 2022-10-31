@@ -25,9 +25,18 @@ footer{
   }
   
   footer {
-    margin-top: auto;
+    margin-top: 0 auto;
   }
+
+  main{
+    flex-grow: 1;
+  }
+
 .main-content{
 
     color:aquamarine;
+}
+
+.highlight{
+    color: orange;
 }
