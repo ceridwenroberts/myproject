@@ -40,3 +40,7 @@ footer{
 .highlight{
     color: orange;
 }
+
+p{
+    font-size: 2em;
+}
