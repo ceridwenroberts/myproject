@@ -21,9 +21,14 @@ footer{
 }
 
 header{
-    font-size: 5em;
-    color: red;
+    font-size: 2em;
+    color: blue;
+    font-style: italic;
 }
+
+
+
+
  body {
    
   }
